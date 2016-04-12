@@ -1,0 +1,26 @@
+{
+  "name": "nefarious-chainsaw",
+  "version": "1.0.0",
+  "description": "This is the repository that contains all the code that allows you to integrate code from all the other /chobbie repositories",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent-austria/nefarious-chainsaw.git"
+  },
+  "keywords": [
+    "chobbie",
+    "img"
+  ],
+  "author": "Vincent Austria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincent-austria/nefarious-chainsaw/issues"
+  },
+  "homepage": "https://github.com/vincent-austria/nefarious-chainsaw#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

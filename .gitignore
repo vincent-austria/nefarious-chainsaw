@@ -1,0 +1,15 @@
+.settings/
+bin/
+tmp/
+node_modules/
+
+.project
+.metadata
+.classpath
+.loadpath
+
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
